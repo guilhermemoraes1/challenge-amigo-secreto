@@ -11,7 +11,7 @@ Este projeto foi desenvolvido utilizando HTML, CSS e JavaScript. Ele permite que
 
 ## Demonstração
 
-![Demo do projeto](assets\demonstracao-ezgif.com-cut.gif)
+![Demo do projeto](assets/demonstracao-ezgif.com-cut.gif)
 
 
 ## Como Contribuir
